@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\HoangKhang_201206933\BTOOP\BTOOP\bin\Debug\BTOOP.exe.config
+E:\LuuDuLieuSinhVien\HoangKhang_201206933\BTOOP\BTOOP\bin\Debug\BTOOP.exe
+E:\LuuDuLieuSinhVien\HoangKhang_201206933\BTOOP\BTOOP\bin\Debug\BTOOP.pdb
+E:\LuuDuLieuSinhVien\HoangKhang_201206933\BTOOP\BTOOP\obj\Debug\BTOOP.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\HoangKhang_201206933\BTOOP\BTOOP\obj\Debug\BTOOP.exe
+E:\LuuDuLieuSinhVien\HoangKhang_201206933\BTOOP\BTOOP\obj\Debug\BTOOP.pdb

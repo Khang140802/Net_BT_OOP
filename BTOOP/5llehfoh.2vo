@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BTOOP
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ToaDo a = new ToaDo("R", 9, 6);
+            a.ToString();
+            Console.ReadLine();
+        }
+    }
+}

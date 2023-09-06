@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BTOOP
+{
+    class SinhVien
+    {
+        private int maSV;
+
+        public int MaSV
+        {
+            get { return maSV; }
+            set { if (maSV > 0) maSV = value; }
+        }
+        private string hoTen;
+
+        public string HoTen
+        {
+            get { return hoTen; }
+            set { hoTen = value; }
+        }
+        private double diemTH;
+        private double diemLT;
+
+    }
+}

@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BTOOP
+{
+    class ToaDo
+    {
+        private string tenTD;
+
+        public string TenTD
+        {
+            get { return tenTD; }
+            set { tenTD = value; }
+        }
+        private double x, y;
+
+        public double Y
+        {
+            get { return y; }
+            set { y = value; }
+        }
+
+        public double X
+        {
+            get { return x; }
+            set { x = value; }
+        }
+
+    }
+}
